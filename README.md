@@ -1,5 +1,6 @@
 Hi there! 👋
 I'm a software developer passionate about building data-driven applications and tools that make complex analysis accessible. My work spans across bioinformatics, sports analytics, and financial technology.
+
 🚀 Featured Projects
 🧬 Mitochondrial DNA Analysis Tool
 A comprehensive web application for analyzing DNA and amminoacids sequences, built with Python and Streamlit.
