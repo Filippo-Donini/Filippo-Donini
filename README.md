@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-> For a better viewing experience, check out my [portfolio page](https://yourusername.github.io)
+> For a better viewing experience, check out my [portfolio page](https://filippo-donini.github.io/)
 
 I'm a software developer passionate about building data-driven applications and tools that make complex analysis accessible. My work spans across bioinformatics, sports analytics, and financial technology.
 
